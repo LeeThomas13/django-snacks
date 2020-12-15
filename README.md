@@ -1,5 +1,5 @@
-[Link to first PR]()
-
+[Link to main branch(skeleton)](https://github.com/LeeThomas13/django-snacks)
+[Link to first PR(brain)]()
 Lab: Intro to Django
 Overview
 The first words you see on the Django website are
